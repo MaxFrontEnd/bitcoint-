@@ -1,7 +1,8 @@
 # bitcoint-
 Little bitcoin rate project
 
-* USE
+USED:
+
 
 * XHR - request - response
 * seletc by ID. 
